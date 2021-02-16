@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 17.05.1994  
 **Name:** Cagan Renan  
 **Surname:** Arpaci  
 **Email:** caganrar@gmail.com  
